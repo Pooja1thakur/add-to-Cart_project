@@ -1,0 +1,48 @@
+.card_details{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 24rem;
+    padding: 10px;
+    position: relative;
+    
+    
+    
+    
+    
+    
+
+
+}
+
+
+
+
+
+
+.navlink-1{
+    text-decoration: none;
+    color: linen;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.navlink-2{
+    text-decoration: none;
+    color:  #faf0e6;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar{
+    height: 60px;
+}
+p{
+    font-size: 22px;
+}
+
+.img{
+    width: 5rem;
+    padding: 10px;
+}
